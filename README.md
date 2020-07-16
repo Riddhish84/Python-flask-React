@@ -9,7 +9,7 @@ I have used
 To build this small demo project.
 
 
-##Simple steps to run this project.
+### Simple steps to run this project.
 1. **Run ModoDb** using "mongod" command
 
 2. Install all **prerequisite** libraries of python using pip install.
