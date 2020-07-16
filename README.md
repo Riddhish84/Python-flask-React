@@ -1,7 +1,15 @@
 # Python-flask-React
-Just demo To do List 
+Just demo To do List
 
-##How To run this project.
+I have used
+* Python with Flex
+* MongoDB as backend
+* React Js
+
+To build this small demo project.
+
+
+##Simple steps to run this project.
 1. **Run ModoDb** using "mongod" command
 
 2. Install all **prerequisite** libraries of python using pip install.
